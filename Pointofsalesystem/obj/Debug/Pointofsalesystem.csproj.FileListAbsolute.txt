@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.Properties.Resources.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\bin\Debug\Pointofsalesystem.exe.config
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\bin\Debug\Pointofsalesystem.exe
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\bin\Debug\Pointofsalesystem.pdb
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.exe
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.pdb
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmHome.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmPricebook.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmRegister.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmStoreStatus.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmTimeClock.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmUsers.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmVendors.resources
+C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\WindowsFormsApp1.Form1.resources

@@ -58,10 +58,73 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPricebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPricebook.Designer.cs">
+      <DependentUpon>frmPricebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStoreStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStoreStatus.Designer.cs">
+      <DependentUpon>frmStoreStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimeClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimeClock.Designer.cs">
+      <DependentUpon>frmTimeClock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsers.Designer.cs">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendors.Designer.cs">
+      <DependentUpon>frmVendors.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPricebook.resx">
+      <DependentUpon>frmPricebook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStoreStatus.resx">
+      <DependentUpon>frmStoreStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimeClock.resx">
+      <DependentUpon>frmTimeClock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsers.resx">
+      <DependentUpon>frmUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendors.resx">
+      <DependentUpon>frmVendors.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -71,6 +134,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -84,6 +148,48 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\658872232_942335751761442_3566950284396432214_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\658872232_942335751761442_3566950284396432214_n1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\657772626_949401437679528_2199787066070147298_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\653523318_26169645822736027_6940905045419540461_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\660301433_4374147009508685_1705203075129114204_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\652890635_1598701951406078_3930808758512257224_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\657492147_1475997330789916_2189035446617777447_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\657478660_914036648101115_1547856208811108650_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\653922414_1601357511080703_2086968027721228914_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\650265669_1276644047895834_6544813573420951986_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\643793607_1488651432967090_211993174307983645_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\660301433_4374147009508685_1705203075129114204_n1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\656850296_2885737775151325_6015291860967378063_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-left-upload-icon-in-transparent-background-basic-app-and-web-ui-bold-line-icon-eps10-free-vector-removebg-preview.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
