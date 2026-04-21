@@ -15,3 +15,27 @@ C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsa
 C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmUsers.resources
 C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmVendors.resources
 C:\Users\PC\source\repos\Pointofsalesystem\Pointofsalesystem\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\Pointofsalesystem.exe.config
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\Pointofsalesystem.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\Pointofsalesystem.pdb
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\MySql.Data.dll
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\System.Memory.dll
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\System.Buffers.dll
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\bin\Debug\MySql.Data.xml
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.csproj.AssemblyReference.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmHome.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmPricebook.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmRegister.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmStoreStatus.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmTimeClock.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmUsers.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.frmVendors.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.Properties.Resources.resources
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.csproj.GenerateResource.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.csproj.CoreCompileInputs.cache
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofs.42FCA42B.Up2Date
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.exe
+C:\Users\COLLEGE STUDENT.DESKTOP-KRQVON5\source\repos\cjaestrante-max-EDP-FULL-PROJECT-BSIT2B\Pointofsalesystem\obj\Debug\Pointofsalesystem.pdb

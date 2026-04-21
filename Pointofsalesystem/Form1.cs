@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Data;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
 using Pointofsalesystem;
 
 namespace WindowsFormsApp1
@@ -10,7 +12,7 @@ namespace WindowsFormsApp1
 		{
 			InitializeComponent();
 		}
-
+		MyDatabase db = new MyDatabase();
 		string[,] userCredentials =
 		{
 			{"admin","1234","Chris Joseph Estrante" },
@@ -26,13 +28,25 @@ namespace WindowsFormsApp1
 					MessageBox.Show("Login Successful");
 
 					frmHome home = new frmHome();
-					home.Show();      // lalabas ang Home
+					home.Show();      
 
-					this.Hide();      // mawawala ang Login
-				}
+					this.Hide();
+                    MessageBox.Show("Invalid Username or Password");
+                }
 				else
 				{
-					MessageBox.Show("Invalid Username or Password");
+					DataTable dt = db.ExecuteReturnQuery("select * from tblLoginCredentials where  use_username = @uname and user_password = @pword",
+					new MySqlParameter("@uname", tbUsername.Text),
+					new MySqlParameter("@pword", tbPassword.Text));	
+
+					if(dt.Rows.Count > 1)
+					{
+						frmHome frm = new frmHome();
+						this.Hide();
+						frm.Show();
+
+					}
+					
 				}
 			}
 
@@ -53,5 +67,24 @@ namespace WindowsFormsApp1
 
 			MessageBox.Show("Invalid Username/Password");
 		}
-	}
+		
+		private void Form1_Load(object sender, EventArgs e)
+		{
+            if (db.TestConnection() == true)
+			{
+				MessageBox.Show("Connected Succesfuly");
+			}
+			else
+			{
+				MessageBox.Show("Mali ka");
+			}
+		  
+				
+        }
+
+        private void tbUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
