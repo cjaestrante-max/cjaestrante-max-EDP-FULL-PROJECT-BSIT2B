@@ -69,7 +69,7 @@ namespace Pointofsalesystem
 
 
 
-        //execute return query. used for query SELECT.
+        
         public DataTable ExecuteReturnQuery(string query, params MySqlParameter[] parameters)
         {
             using (MySqlConnection con = new MySqlConnection(connectionString))

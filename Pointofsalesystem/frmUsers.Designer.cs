@@ -140,7 +140,6 @@
 			this.tbHomeAdd.Name = "tbHomeAdd";
 			this.tbHomeAdd.Size = new System.Drawing.Size(305, 26);
 			this.tbHomeAdd.TabIndex = 11;
-			
 			// 
 			// label6
 			// 
@@ -222,6 +221,7 @@
 			this.dgvUsers.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
 			this.dgvUsers.Size = new System.Drawing.Size(557, 412);
 			this.dgvUsers.TabIndex = 19;
+			this.dgvUsers.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUsers_CellClick);
 			// 
 			// btnUpdate
 			// 
@@ -232,6 +232,7 @@
 			this.btnUpdate.TabIndex = 20;
 			this.btnUpdate.Text = "Update";
 			this.btnUpdate.UseVisualStyleBackColor = true;
+			this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click_1);
 			// 
 			// btnDeactivate
 			// 
@@ -242,6 +243,7 @@
 			this.btnDeactivate.TabIndex = 21;
 			this.btnDeactivate.Text = "Deactivate";
 			this.btnDeactivate.UseVisualStyleBackColor = true;
+			this.btnDeactivate.Click += new System.EventHandler(this.btnDeactivate_Click_2);
 			// 
 			// frmUsers
 			// 

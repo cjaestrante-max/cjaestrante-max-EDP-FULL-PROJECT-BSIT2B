@@ -196,5 +196,9 @@
   <ItemGroup>
     <None Include="Resources\exit-left-upload-icon-in-transparent-background-basic-app-and-web-ui-bold-line-icon-eps10-free-vector-removebg-preview.png" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DBbackupEstrante\estrante_db %281%29.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
